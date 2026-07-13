@@ -1,0 +1,17 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+data/
+logs/
+plugins/
+.vscode/
+.idea/
+.DS_Store
+notes.txt
+lib/
+*.toml
+Pico_Plant_Sensor/blinking.py
+Pico_Plant_Sensor/PlantMonitor.pico-workspace.code-workspace
+subscriber/.dockerignore
